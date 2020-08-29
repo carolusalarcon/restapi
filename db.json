@@ -1,0 +1,18 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "description": "Retiro Super Numerarios",
+      "type": "Retiro",
+      "startDate": "2020-11-15T18:25:43.511Z",
+      "endDate": "2020-11-20T18:25:43.511Z"
+    },
+    {
+      "id": 2,
+      "description": "Convivencia Agregados",
+      "type": "Convivencia",
+      "startDate": "2020-12-26T18:25:43.511Z",
+      "endDate": "2021-01-14T18:25:43.511Z"
+    }
+  ]
+}
